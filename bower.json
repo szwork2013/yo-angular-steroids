@@ -1,0 +1,33 @@
+{
+  "name": "blank",
+  "version": "0.0.1",
+  "authors": [
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "www/components",
+    "www/spec",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.2.18",
+    "json3": "~3.3.1",
+    "es5-shim": "~3.1.0",
+    "jquery": "~1.11.1",
+    "lodash": "~2.4.1",
+    "bootstrap-sass-official": "~3.1.1",
+    "font-awesome": "4.1.0",
+    "angular-strap": "2.0.3",
+    "angular-motion": "0.3.2",
+    "bootstrap-additions": "0.2.2",
+    "angular-resource": "^1.2.18",
+    "angular-cookies": "^1.2.18",
+    "angular-sanitize": "^1.2.18",
+    "angular-animate": "^1.2.18",
+    "angular-touch": "^1.2.18",
+    "angular-route": "^1.2.18",
+    "steroids-js": "3.1.x"
+  }
+}
